@@ -22,13 +22,13 @@ Esta é uma solução para o [desafio de componente de cartão de perfil no Fron
 
 ### Captura de tela
 
-![](./desafio-cssav-cartao-visita/design/screenshotprofilecard.png)
-![](./desafio-cssav-cartao-visita/design/screenshotprofilecardm.png)
+![](./design/screenshotprofilecard.png)
+![](./design/screenshotprofilecardm.png)
 
 ### Links
 
-- URL da solução: [Adicione a URL da solução aqui](https://your-solution-url.com)
-- URL do site ativo: [Adicione a URL do site ativo aqui](https://your-live-site-url.com)
+- URL da solução: https://github.com/PietroZanetelliDev/Exercicio-HTML-CSS-Avancado---Profile-Card
+- URL do site ativo: https://pietrozanetellidev.github.io/Exercicio-HTML-CSS-Avancado---Profile-Card/
 
 ## Processo de Criação
 
