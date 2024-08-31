@@ -1,68 +1,54 @@
-# Frontend Mentor - Profile card component solution
+# Frontend Mentor - Solução - Criação cartão de perfil
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta é uma solução para o [desafio de componente de cartão de perfil no Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
 
-## Table of contents
+## Índice
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Visão geral](#visão-geral)
+- [O desafio](#o-desafio)
+- [Capturas de tela](#capturas-de-tela)
+- [Links](#links)
+- [Processo de criação](#processo-de-criação)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [O que aprendi](#o-que-aprendi)
+- [Desenvolvimento contínuo](#desenvolvimento-contínuo)
+- [Autor](#autor)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+## Visão geral
 
-## Overview
+### O desafio
 
-### The challenge
+- Crie o projeto de acordo com os designs fornecidos, para posicionamentos dos elementos utilizar conceitos aprendidos de CSS Flex.
 
-- Build out the project to the designs provided
+### Captura de tela
 
-### Screenshot
-
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![](./desafio-cssav-cartao-visita/design/screenshotprofilecard.png)
+![](./desafio-cssav-cartao-visita/design/screenshotprofilecardm.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL da solução: [Adicione a URL da solução aqui](https://your-solution-url.com)
+- URL do site ativo: [Adicione a URL do site ativo aqui](https://your-live-site-url.com)
 
-## My process
+## Processo de Criação
 
-### Built with
+### Criado com
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Marcação HTML5 semântica
+- Propriedades personalizadas CSS
 - Flexbox
 - CSS Flex
-- Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+### O que aprendi
 
-### What I learned
+Realizar esse exercício me fez perceber alguns pontos fracos que eu tinha na criação de um projeto do 0, após uma primeira tentativa(aonde o resultado ficou com diferenças do esperado), revisei alguns conceitos abordados em aula e refiz o código depois corrigi erros de acordo com a solução
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+### Desenvolvimento contínuo
 
+Vou continuar montando meus resumos e anotações, e vou focar em revisar e me aprofundar mais nos conceitos de CSS flex, da estilização de diversas classes ao mesmo tempo, da composição de um bom README.
+Também no processo de criação de um projeto desde o início(análise do proposto, estrutura base, organização das ideias e posterior realização do projeto)
 
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-## Author
+## Autor
 
 - GitHub - [PietroZanetelliDev](https://github.com/PietroZanetelliDev)
 - LinkedIn - [@yourusername]()
